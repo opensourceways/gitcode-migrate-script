@@ -1,0 +1,5 @@
+.idea
+data/*
+**__pycache__**
+business/list_not_active_mem.py
+config.py
